@@ -13,5 +13,5 @@ Backend
 <br>
 Frontend<br>
 1. Clone the project<br>
-2. first cd to FrontEnd_EmployeePanel folder then run npm install and last run at http://localhost:4200/ 
+2. first cd to FrontEnd_EmployeePanel folder then run npm install and last run at http://localhost:4200/ using ng serve.
 
