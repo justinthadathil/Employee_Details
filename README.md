@@ -10,7 +10,6 @@ Backend
 1. Clone the project
 2. first cd to BackEnd_NodeJS folder then run npm install and last run at http://localhost:3000/ 
 <Note: Add your mongoDB link and create collection of Employee>
-<br>
 Frontend<br>
 1. Clone the project
 2. first cd to FrontEnd_EmployeePanel folder then run npm install and last run at http://localhost:4200/ 
