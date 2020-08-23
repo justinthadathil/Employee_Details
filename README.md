@@ -6,11 +6,10 @@ Angular as front end and nodejs as backend with mongo DB<br>
 Software required:- Nodejs, Mongo DB Community Server, Robo 3t and VS code<br>
 
 Instruction:-<br>
-Backend
-1. Clone the project
-2. first cd to BackEnd_NodeJS folder then run npm install and last run at http://localhost:3000/ 
-<Note: Add your mongoDB link and create collection of Employee>
-<br>
+Backend<br>
+1. Clone the project<br>
+2. first cd to BackEnd_NodeJS folder then run npm install and last run at http://localhost:3000/ using node index.js<br>
+<Note: Add your mongoDB link and create collection of Employee><br>
 Frontend<br>
 1. Clone the project<br>
 2. first cd to FrontEnd_EmployeePanel folder then run npm install and last run at http://localhost:4200/ using ng serve.
